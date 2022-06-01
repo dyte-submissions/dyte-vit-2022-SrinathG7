@@ -84,14 +84,14 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-1.Clone the the github repo.<br />
-2.type npm install inside your terminal<br />
-3.initial the cli tool globally by typing "npm install -g" in the terminal<br />
-4.make sure you have the csv file conatining all the project repos within the director<br />
-5.now type "lakshmiStartAagidu --file {'file-name.csv'} --dependancy {'dependancy'}" to check the version(Task-1).<br />
-7.now type "lakshmiStartAagidu --file {'file-name.csv'} --dependancy {'dependancy'}" --update  to check the version(Task-1) and get the update PR column which contains the link to update the out-dated package.<br />
-
+<ol>
+<li>Clone the the github repo.<br /></li>
+<li>type npm install inside your terminal<br /></li>
+<li>initial the cli tool globally by typing "npm install -g" in the terminal<br /></li>
+<li>make sure you have the csv file conatining all the project repos within the director<br /></li>
+<li>now type "lakshmiStartAagidu --file {'file-name.csv'} --dependancy {'dependancy'}" to check the version(Task-1).<br /></li>
+<li>now type "lakshmiStartAagidu --file {'file-name.csv'} --dependancy {'dependancy'}" --update  to check the version(Task-1) and get the update PR column which contains the link to update the out-dated package.<br /> </li>
+</ol>
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
