@@ -87,7 +87,7 @@
 <ol>
 <li>Clone the the github repo.<br /></li>
 <li>type npm install inside your terminal<br /></li>
-<li>initial the cli tool globally by typing "npm install -g" in the terminal<br /></li>
+<li>Initialize the cli tool globally by typing "npm install -g" in the terminal<br /></li>
 <li>make sure you have the csv file conatining all the project repos within the director<br /></li>
 <li>now type "lakshmiStartAagidu --file {'file-name.csv'} --dependancy {'dependancy'}" to check the version(Task-1).<br /></li>
 <li>now type "lakshmiStartAagidu --file {'file-name.csv'} --dependancy {'dependancy'}" --update  to check the version(Task-1) and get the update PR column which contains the link to update the out-dated package.<br /> </li>
